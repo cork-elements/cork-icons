@@ -1,0 +1,14 @@
+{
+  "name": "@ucd-lib/cork-icons",
+  "description": "Icons for cork elements",
+  "version": "1.0.0",
+  "main": "index.js",
+  "flat": true,
+  "repository": "https://github.com/cork-elements/cork-icons",
+  "author": "Justin Merz <jrmerz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/iron-icon": "^3.0.0-pre.12",
+    "@polymer/iron-iconset-svg": "^3.0.0-pre.12"
+  }
+}
