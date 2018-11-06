@@ -1,8 +1,8 @@
 {
   "name": "@ucd-lib/cork-icons",
   "description": "Icons for cork elements",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "cork-icons.js",
   "flat": true,
   "repository": "https://github.com/cork-elements/cork-icons",
   "author": "Justin Merz <jrmerz@gmail.com>",
